@@ -1,6 +1,6 @@
 # Evolution of Steganography
 
-This project presents the basic concepts, history, techniques, and evaluation of **steganography**, with a focus on **image steganography using the Least Significant Bit (LSB) technique**.
+This project presents the basic concepts, history, techniques, and evolution of **steganography**, with a focus on **image steganography using the Least Significant Bit (LSB) technique**.
 
 ## About the Project
 
