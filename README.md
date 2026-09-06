@@ -63,7 +63,6 @@ The steganography technique can be evaluated using three main factors:
 ```text
 presentation/
     Presentation PowerPoint
-    Speaking Script PDF
 
 reference/
     Reference paper
